@@ -1,0 +1,52 @@
+/**index.wxss**/
+.bgjb{
+  
+   background: linear-gradient(rgb(228, 158, 158),rgb(225,237,195)); 
+}
+.yq_bg {
+  width: 750rpx !important;
+  height: 533rpx;
+}
+
+#mychart-dom-area canvas {
+  height: 280px!important;
+}
+
+#mychart-dom-line canvas {
+  width: 100%;
+  margin-left: 10rpx;
+  height: 240px !important;
+}
+
+.yq_tj {
+  background: #fff;
+  box-shadow: 2rpx 6rpx 5rpx #eee;
+  position: absolute;
+  left: 30rpx;
+  right: 30rpx;
+  top: 340rpx;
+  padding: 20rpx 10rpx 55rpx 10rpx;
+  z-index: 999;
+  border-radius: 2rpx;
+}
+
+.yq-loca {
+  padding: 130rpx 35rpx 35rpx 35rpx;
+}
+
+.yq-loca-city view {
+  width: 25%;
+  text-align: center;
+}
+
+.icon_dw {
+  width: 18rpx;
+  height: 23rpx;
+}
+
+.add_u {
+  text-decoration: underline;
+}
+.qg_title{
+  padding: 30rpx 30rpx 0rpx 30rpx
+}
